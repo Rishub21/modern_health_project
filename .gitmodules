@@ -1,0 +1,3 @@
+[submodule "modern_health_app"]
+	path = modern_health_app
+	url = https://github.com/Rishub21/modern_health_app.git
