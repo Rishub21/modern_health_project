@@ -9,7 +9,7 @@ This is a django graphql api using python 3
 1) create a virtual environment : ``` python3 -m venv env ```
 2) activate the virtual environment: ``` . env/bin/activate```
 3) clone this repo and cd into it 
-4) ``` pip install -r requirements.txt``` 
+4) install dependencies``` pip install -r requirements.txt``` 
 5) cd into api folder 
 6) If you want to seed the database before you run the application please run ```python manage.py loaddata library.json``` 
 7) Run the local server by issuing this command: ``` python manage.py runserver ```
@@ -24,6 +24,6 @@ This is a django graphql api using python 3
 Note: I do not have alot of experience with front end. The front-end is an entire react app and thus does have alot of boiler plate with it. I did this becasue this was my past experience with react. 
 
 1) In a seperate terminal window cd into the modern_health_front_end folder of this repo
-2) ```npm install```
+2) install dependencies: ```npm install```
 3) yarn start  
 4) visit **http://localhost:3000/** to see the app displaying data rendered from the graphql api 
