@@ -9,7 +9,7 @@ This is a django graphql api using python 3
 1) create a virtual environment : ``` python3 -m venv env ```
 2) activate the virtual environment: ``` . env/bin/activate```
 3) clone this repo and cd into it 
-4) ``` pip install requirements.txt``` 
+4) ``` pip install -r requirements.txt``` 
 5) cd into api folder 
 6) If you want to seed the database before you run the application please run ```python manage.py loaddata library.json``` 
 7) Run the local server by issuing this command: ``` python manage.py runserver ```
