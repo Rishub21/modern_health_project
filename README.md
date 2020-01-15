@@ -26,5 +26,5 @@ Note: I do not have alot of experience with front end. The front-end is an entir
 1) In a seperate terminal window cd into the modern_health_front_end folder of this repo
 2) install dependencies: ```npm install```
 3) install react horizontal scroller (used in front end) ```npm install --save react-horizontal-scroll-container```
-3) yarn start (you can do do npm start if yarn is not installed)
+3) ```yarn start``` (you can do do ```npm start``` if yarn is not installed)
 4) visit **http://localhost:3000/** to see the app displaying data rendered from the graphql api 
