@@ -21,7 +21,7 @@ This is a django graphql api using python 3
 ## FRONTEND (REACT APP)
 **Requirements: Node >= 8.10 and npm >= 5.6** 
 
-Note: I do not have alot of experience with front end. The front-end is an entire react app and thus does have alot of boiler plate with it. I did this becasue this was my past experience with react. 
+Note: I do not have alot of experience with front end. The front-end is an entire react app created from [Create React App](https://github.com/facebook/create-react-app) and thus does have alot of boiler plate with it. I did this becasue this was my past experience with react. 
 
 1) In a seperate terminal window cd into the modern_health_front_end folder of this repo
 2) install dependencies: ```npm install```
