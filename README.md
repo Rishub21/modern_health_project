@@ -24,6 +24,6 @@ This is a django graphql api using python 3
 Note: I do not have alot of experience with front end. The front-end is an entire react app and thus does have alot of boiler plate with it. I did this becasue this was my past experience with react. 
 
 1) In a seperate terminal window cd into the modern_health_front_end folder of this repo
-2) ```npm-install-all```
+2) ```npm install```
 3) yarn start  
 4) visit **http://localhost:3000/** to see the app displaying data rendered from the graphql api 
