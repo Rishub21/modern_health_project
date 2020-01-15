@@ -6,8 +6,8 @@ a simple web app for modern health. Note the front-end is in the form of an enti
 
 This is a django graphql api using python 3 
 
-1) create a virtual environment : ``` python3 -m venv env ```
-2) activate the virtual environment: ``` . env/bin/activate```
+1) create a virtual environment : ``` python3 -m venv envName ```
+2) activate the virtual environment: ``` . envName/bin/activate```
 3) clone this repo and cd into it 
 4) install dependencies``` pip install -r requirements.txt``` 
 5) cd into api folder 
